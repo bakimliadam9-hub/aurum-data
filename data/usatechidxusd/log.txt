@@ -1,0 +1,119 @@
+error: required option '-i, --instrument <value>' not specified
+----------------------------------------------------
+Downloading historical price data for:
+----------------------------------------------------
+Instrument:     US 100 Tech Index
+Timeframe:      m1
+From date:      Mar 4, 2024, 12:00 AM
+To date:        Mar 5, 2024, 12:00 AM
+Price type:     bid
+Volumes:        false
+UTC Offset:     0
+Include flats:  false
+Format:         csv
+----------------------------------------------------
+----------------------------------------------------
+√ File saved: data/usatechidxusd/probe/usatechidxusd-m1-bid-2024-03-04-2024-03-05.csv (0 Bytes)
+
+Download time: 125ms
+
+total 8
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 3 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner    0 Oct 12 14:59 usatechidxusd-m1-bid-2024-03-04-2024-03-05.csv
+----------------------------------------------------
+Downloading historical price data for:
+----------------------------------------------------
+Instrument:     US 100 Tech Index
+Timeframe:      m1
+From date:      Jan 1, 2023, 12:00 AM
+To date:        Dec 31, 2023, 12:00 AM
+Price type:     bid
+Volumes:        false
+UTC Offset:     0
+Include flats:  false
+Format:         csv
+----------------------------------------------------
+
+Something went wrong:
+ > Request failed with status 202
+
+failed 2023
+total 8
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 4 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner    0 Oct 12 14:59 usatechidxusd-m1-bid-2023-01-01-2023-12-31.csv
+----------------------------------------------------
+Downloading historical price data for:
+----------------------------------------------------
+Instrument:     US 100 Tech Index
+Timeframe:      m1
+From date:      Jan 1, 2024, 12:00 AM
+To date:        Dec 31, 2024, 12:00 AM
+Price type:     bid
+Volumes:        false
+UTC Offset:     0
+Include flats:  false
+Format:         csv
+----------------------------------------------------
+
+Something went wrong:
+ > Request failed with status 202
+
+failed 2024
+total 8
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 4 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner    0 Oct 12 14:59 usatechidxusd-m1-bid-2024-01-01-2024-12-31.csv
+----------------------------------------------------
+Downloading historical price data for:
+----------------------------------------------------
+Instrument:     US 100 Tech Index
+Timeframe:      m1
+From date:      Jan 1, 2025, 12:00 AM
+To date:        Dec 31, 2025, 12:00 AM
+Price type:     bid
+Volumes:        false
+UTC Offset:     0
+Include flats:  false
+Format:         csv
+----------------------------------------------------
+
+Something went wrong:
+ > Request failed with status 202
+
+failed 2025
+total 8
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 4 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner    0 Oct 12 14:59 usatechidxusd-m1-bid-2025-01-01-2025-12-31.csv
+----------------------------------------------------
+Downloading historical price data for:
+----------------------------------------------------
+Instrument:     US 100 Tech Index
+Timeframe:      m1
+From date:      Jan 1, 2026, 12:00 AM
+To date:        Oct 12, 2026, 12:00 AM
+Price type:     bid
+Volumes:        false
+UTC Offset:     0
+Include flats:  false
+Format:         csv
+----------------------------------------------------
+
+Something went wrong:
+ > Request failed with status 202
+
+failed 2026
+total 8
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 4 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner    0 Oct 12 14:59 usatechidxusd-m1-bid-2026-01-01-2026-10-12.csv
+total 28
+drwxr-xr-x 2 runner runner 4096 Oct 12 14:59 .
+drwxr-xr-x 6 runner runner 4096 Oct 12 14:59 ..
+-rw-r--r-- 1 runner runner 3642 Oct 12 14:59 log.txt
+-rw-r--r-- 1 runner runner   67 Oct 12 14:59 usatechidxusd_m1_bid_2023.csv.gz
+-rw-r--r-- 1 runner runner   67 Oct 12 14:59 usatechidxusd_m1_bid_2024.csv.gz
+-rw-r--r-- 1 runner runner   67 Oct 12 14:59 usatechidxusd_m1_bid_2025.csv.gz
+-rw-r--r-- 1 runner runner   67 Oct 12 14:59 usatechidxusd_m1_bid_2026.csv.gz

@@ -21,21 +21,32 @@ jobs:
           node-version: '20'
       - name: download M1 bid per year
         run: |
-          mkdir -p data/${{ matrix.inst }}
+          D=data/${{ matrix.inst }}
+          rm -rf $D; mkdir -p $D
+          LOG=$D/log.txt
+          npx --yes dukascopy-node --version >> $LOG 2>&1 || true
+          # quick probe: one day
+          npx --yes dukascopy-node -i ${{ matrix.inst }} -from 2024-03-04 -to 2024-03-05 -t m1 -f csv -dir $D/probe >> $LOG 2>&1 || echo "probe failed" >> $LOG
+          ls -la $D/probe >> $LOG 2>&1; head -3 $D/probe/* >> $LOG 2>&1 || true
           for Y in 2023 2024 2025 2026; do
             TO="$Y-12-31"; [ "$Y" = "2026" ] && TO="$(date -u +%F)"
-            npx --yes dukascopy-node@1 -i ${{ matrix.inst }} -from $Y-01-01 -to $TO -t m1 -p bid -v -f csv \
-              -dir data/${{ matrix.inst }} -fn ${{ matrix.inst }}_m1_bid_$Y -r 5 -bs 10 -bp 1000 || echo "failed $Y"
-            gzip -f data/${{ matrix.inst }}/${{ matrix.inst }}_m1_bid_$Y.csv || true
+            npx --yes dukascopy-node -i ${{ matrix.inst }} -from $Y-01-01 -to $TO -t m1 -f csv \
+              -dir $D/raw$Y -r 5 -bs 10 -bp 1000 >> $LOG 2>&1 || echo "failed $Y" >> $LOG
+            ls -la $D/raw$Y >> $LOG 2>&1 || true
+            F=$(ls $D/raw$Y/*.csv 2>/dev/null | head -1)
+            if [ -n "$F" ]; then gzip -c "$F" > $D/${{ matrix.inst }}_m1_bid_$Y.csv.gz; fi
+            rm -rf $D/raw$Y
           done
-          ls -la data/${{ matrix.inst }}
+          rm -rf $D/probe
+          ls -la $D >> $LOG
+          tail -c 20000 $LOG > $LOG.tmp && mv $LOG.tmp $LOG
       - name: commit
         run: |
           git config user.name "aurum-bot"
           git config user.email "aurum-bot@users.noreply.github.com"
           for i in 1 2 3 4 5; do
             git pull --rebase origin ${GITHUB_REF_NAME} || true
-            git add data/${{ matrix.inst }}
+            git add -A data/${{ matrix.inst }}
             git commit -m "data: ${{ matrix.inst }} M1 bid 2023-now" || exit 0
             git push origin HEAD:${GITHUB_REF_NAME} && exit 0
             sleep 15

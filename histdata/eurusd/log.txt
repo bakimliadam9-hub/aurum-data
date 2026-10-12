@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2021
+{'tk': '9a4bc5b89e01a73480f3219f9e8269cf', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_2021.zip
+ok 2021 histdata/eurusd/DAT_ASCII_EURUSD_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2022
+{'tk': 'bb2df34e5bf31dcb1f87993de15be15b', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_2022.zip
+ok 2022 histdata/eurusd/DAT_ASCII_EURUSD_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2023
+{'tk': '3640519ec6a83d31e4ecfbdaea28f60b', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_2023.zip
+ok 2023 histdata/eurusd/DAT_ASCII_EURUSD_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2024
+{'tk': '917c0fcc2be4fde8ebe3879ba4447af2', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_2024.zip
+ok 2024 histdata/eurusd/DAT_ASCII_EURUSD_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2025
+{'tk': 'd2613ec6c212284877d0bcd027e14903', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_2025.zip
+ok 2025 histdata/eurusd/DAT_ASCII_EURUSD_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/1
+{'tk': '48c4cc7cfe56c2a2c469fef9870ad057', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202601.zip
+ok 2026 1 histdata/eurusd/DAT_ASCII_EURUSD_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/2
+{'tk': '0f0c63d721aa6eb83fdd760577c1f7e2', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202602.zip
+ok 2026 2 histdata/eurusd/DAT_ASCII_EURUSD_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/3
+{'tk': '082b5cfe5134cfb06453e0468f7b6e24', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202603.zip
+ok 2026 3 histdata/eurusd/DAT_ASCII_EURUSD_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/4
+{'tk': '2c3bf69865c3c680f457ea4717b3592e', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202604.zip
+ok 2026 4 histdata/eurusd/DAT_ASCII_EURUSD_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/5
+{'tk': 'e28a575efcc724978bf5a1fd3322dad1', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202605.zip
+ok 2026 5 histdata/eurusd/DAT_ASCII_EURUSD_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/6
+{'tk': 'ea1ef8db0a4adab365d30471fe6c795d', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202606.zip
+ok 2026 6 histdata/eurusd/DAT_ASCII_EURUSD_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/7
+{'tk': '4ea64abd37181f08f1ac5ceb6a0d492b', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202607.zip
+ok 2026 7 histdata/eurusd/DAT_ASCII_EURUSD_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/8
+{'tk': 'dac72e6ee0ab4896cc804358fe330264', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202608.zip
+ok 2026 8 histdata/eurusd/DAT_ASCII_EURUSD_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/9
+{'tk': 'fd3912691769b434580203dde9f78a99', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202609.zip
+ok 2026 9 histdata/eurusd/DAT_ASCII_EURUSD_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2026/10
+{'tk': 'a6dc97f13427d07a9621d4d143a3c66a', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'EURUSD'}
+Wrote to histdata/eurusd/DAT_ASCII_EURUSD_M1_202610.zip
+ok 2026 10 histdata/eurusd/DAT_ASCII_EURUSD_M1_202610.zip
+total 35012
+drwxr-xr-x 2 runner runner    4096 Oct 12 15:05 .
+drwxr-xr-x 3 runner runner    4096 Oct 12 15:04 ..
+-rw-r--r-- 1 runner runner 3442178 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2016.zip
+-rw-r--r-- 1 runner runner 3365476 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2017.zip
+-rw-r--r-- 1 runner runner 3433859 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2018.zip
+-rw-r--r-- 1 runner runner 3156192 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2019.zip
+-rw-r--r-- 1 runner runner 3420002 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2020.zip
+-rw-r--r-- 1 runner runner 3285118 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2021.zip
+-rw-r--r-- 1 runner runner 3545446 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2022.zip
+-rw-r--r-- 1 runner runner 2919186 Oct 12 15:04 DAT_ASCII_EURUSD_M1_2023.zip
+-rw-r--r-- 1 runner runner 3229550 Oct 12 15:05 DAT_ASCII_EURUSD_M1_2024.zip
+-rw-r--r-- 1 runner runner 3441226 Oct 12 15:05 DAT_ASCII_EURUSD_M1_2025.zip
+-rw-r--r-- 1 runner runner  274312 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202601.zip
+-rw-r--r-- 1 runner runner  258342 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202602.zip
+-rw-r--r-- 1 runner runner  305630 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202603.zip
+-rw-r--r-- 1 runner runner  283980 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202604.zip
+-rw-r--r-- 1 runner runner  260358 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202605.zip
+-rw-r--r-- 1 runner runner  278938 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202606.zip
+-rw-r--r-- 1 runner runner  284767 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202607.zip
+-rw-r--r-- 1 runner runner  258302 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202608.zip
+-rw-r--r-- 1 runner runner  259835 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202609.zip
+-rw-r--r-- 1 runner runner   88632 Oct 12 15:05 DAT_ASCII_EURUSD_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 12 15:05 log.txt

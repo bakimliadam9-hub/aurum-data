@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2021
+{'tk': 'fbc273d84a6554580faa1de4e2b6bc25', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2021.zip
+ok 2021 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2022
+{'tk': '475a64c51572bc0e4b8e52de73223af3', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2022.zip
+ok 2022 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2023
+{'tk': '9e323e9017aa4e8be96cfdb650a36735', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2023.zip
+ok 2023 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2024
+{'tk': 'fb94fbc37b1d096d23e8c9a6ed3facde', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2024.zip
+ok 2024 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2025
+{'tk': '041e34a2c72c7b3cd43bfc3a9ab50b2f', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2025.zip
+ok 2025 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/1
+{'tk': 'a8b1dfbf5d62f138c4f4bb9d1f2e8430', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202601.zip
+ok 2026 1 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/2
+{'tk': '36dcc4ee882a64c962e245c7f7748558', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202602.zip
+ok 2026 2 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/3
+{'tk': '6087c9b02a110ce7c0a0d31e835ea6c6', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202603.zip
+ok 2026 3 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/4
+{'tk': '9899333125b7c8534ef841bbf9853362', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202604.zip
+ok 2026 4 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/5
+{'tk': 'b14f39d66a32a5af341b2a658ab51cad', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202605.zip
+ok 2026 5 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/6
+{'tk': '868b50b74e2b563e1c00da619b14ddc4', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202606.zip
+ok 2026 6 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/7
+{'tk': 'bcd833fbd256d8d35cb731679be94ecf', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202607.zip
+ok 2026 7 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/8
+{'tk': '80a76e8f9a10ccecec82cf228f53b39f', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202608.zip
+ok 2026 8 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/9
+{'tk': 'c6aa8d8601abca8688e81df49ef35b24', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202609.zip
+ok 2026 9 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/nsxusd/2026/10
+{'tk': 'a5fcd09538ff7b59db23c3f92d25a1f1', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'NSXUSD'}
+Wrote to histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202610.zip
+ok 2026 10 histdata/nsxusd/DAT_ASCII_NSXUSD_M1_202610.zip
+total 46556
+drwxr-xr-x 2 runner runner    4096 Oct 12 15:04 .
+drwxr-xr-x 3 runner runner    4096 Oct 12 15:03 ..
+-rw-r--r-- 1 runner runner 3142300 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2016.zip
+-rw-r--r-- 1 runner runner 3005614 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2017.zip
+-rw-r--r-- 1 runner runner 3560115 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2018.zip
+-rw-r--r-- 1 runner runner 3929822 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2019.zip
+-rw-r--r-- 1 runner runner 4782514 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2020.zip
+-rw-r--r-- 1 runner runner 4941583 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2021.zip
+-rw-r--r-- 1 runner runner 5127487 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2022.zip
+-rw-r--r-- 1 runner runner 4285675 Oct 12 15:03 DAT_ASCII_NSXUSD_M1_2023.zip
+-rw-r--r-- 1 runner runner 5195055 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_2024.zip
+-rw-r--r-- 1 runner runner 5327460 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_2025.zip
+-rw-r--r-- 1 runner runner  445108 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202601.zip
+-rw-r--r-- 1 runner runner  431646 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202602.zip
+-rw-r--r-- 1 runner runner  490055 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202603.zip
+-rw-r--r-- 1 runner runner  449935 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202604.zip
+-rw-r--r-- 1 runner runner  453284 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202605.zip
+-rw-r--r-- 1 runner runner  495554 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202606.zip
+-rw-r--r-- 1 runner runner  508914 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202607.zip
+-rw-r--r-- 1 runner runner  454830 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202608.zip
+-rw-r--r-- 1 runner runner  445182 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202609.zip
+-rw-r--r-- 1 runner runner  143731 Oct 12 15:04 DAT_ASCII_NSXUSD_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 12 15:04 log.txt

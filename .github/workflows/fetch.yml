@@ -1,0 +1,42 @@
+name: fetch-dukascopy
+on:
+  push:
+    paths: ['.github/workflows/fetch.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      max-parallel: 2
+      fail-fast: false
+      matrix:
+        inst: [usatechidxusd, usa500idxusd, eurusd, xagusd]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: download M1 bid per year
+        run: |
+          mkdir -p data/${{ matrix.inst }}
+          for Y in 2023 2024 2025 2026; do
+            TO="$Y-12-31"; [ "$Y" = "2026" ] && TO="$(date -u +%F)"
+            npx --yes dukascopy-node@1 -i ${{ matrix.inst }} -from $Y-01-01 -to $TO -t m1 -p bid -v -f csv \
+              -dir data/${{ matrix.inst }} -fn ${{ matrix.inst }}_m1_bid_$Y -r 5 -bs 10 -bp 1000 || echo "failed $Y"
+            gzip -f data/${{ matrix.inst }}/${{ matrix.inst }}_m1_bid_$Y.csv || true
+          done
+          ls -la data/${{ matrix.inst }}
+      - name: commit
+        run: |
+          git config user.name "aurum-bot"
+          git config user.email "aurum-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+            git add data/${{ matrix.inst }}
+            git commit -m "data: ${{ matrix.inst }} M1 bid 2023-now" || exit 0
+            git push origin HEAD:${GITHUB_REF_NAME} && exit 0
+            sleep 15
+          done

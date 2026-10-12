@@ -1,0 +1,90 @@
+name: fetch-histdata-yahoo
+on:
+  push:
+    paths: ['.github/workflows/fetch2.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  histdata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      max-parallel: 3
+      fail-fast: false
+      matrix:
+        pair: [xaueur, nsxusd, spxusd, xagusd, eurusd]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: download histdata M1
+        run: |
+          pip install -q histdata
+          D=histdata/${{ matrix.pair }}; rm -rf $D; mkdir -p $D
+          python - <<'PY' 2>&1 | tail -60 > $D/log.txt
+          import os, datetime
+          from histdata import download_hist_data as dl
+          from histdata.api import Platform as P, TimeFrame as TF
+          pair='${{ matrix.pair }}'; out='histdata/'+pair
+          now=datetime.date.today()
+          for y in range(2016, now.year):
+              try:
+                  f=dl(year=str(y), month=None, pair=pair, platform=P.GENERIC_ASCII, time_frame=TF.ONE_MINUTE, output_directory=out)
+                  print('ok', y, f)
+              except Exception as e:
+                  print('fail', y, repr(e)[:200])
+          for m in range(1, now.month+1):
+              try:
+                  f=dl(year=str(now.year), month=str(m), pair=pair, platform=P.GENERIC_ASCII, time_frame=TF.ONE_MINUTE, output_directory=out)
+                  print('ok', now.year, m, f)
+              except Exception as e:
+                  print('fail', now.year, m, repr(e)[:200])
+          PY
+          ls -la $D >> $D/log.txt
+      - name: commit
+        run: |
+          git config user.name "aurum-bot"
+          git config user.email "aurum-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+            git add -A histdata/${{ matrix.pair }}
+            git commit -m "histdata: ${{ matrix.pair }} M1" || exit 0
+            git push origin HEAD:${GITHUB_REF_NAME} && exit 0
+            sleep 20
+          done
+  yahoo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: download yahoo futures (5m 60d, 1h 730d)
+        run: |
+          pip install -q yfinance pandas
+          mkdir -p yahoo
+          python - <<'PY' 2>&1 | tail -40 > yahoo/log.txt
+          import yfinance as yf
+          for t in ['NQ=F','ES=F','GC=F','SI=F','EURUSD=X','DX-Y.NYB']:
+              for iv,per in (('5m','60d'),('1h','730d')):
+                  try:
+                      df=yf.download(t, interval=iv, period=per, progress=False, auto_adjust=False)
+                      fn='yahoo/'+t.replace('=','_').replace('-','_').replace('.','_')+'_'+iv+'.csv'
+                      df.to_csv(fn); print('ok', t, iv, len(df))
+                  except Exception as e:
+                      print('fail', t, iv, repr(e)[:200])
+          PY
+      - name: commit
+        run: |
+          git config user.name "aurum-bot"
+          git config user.email "aurum-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase origin ${GITHUB_REF_NAME} || true
+            git add -A yahoo
+            git commit -m "yahoo: futures 5m/1h" || exit 0
+            git push origin HEAD:${GITHUB_REF_NAME} && exit 0
+            sleep 20
+          done

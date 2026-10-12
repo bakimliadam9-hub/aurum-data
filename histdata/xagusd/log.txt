@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2021
+{'tk': 'a22dcc40f5c7f8ff41b81b4e8b5951bd', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_2021.zip
+ok 2021 histdata/xagusd/DAT_ASCII_XAGUSD_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2022
+{'tk': '86598f5ac193e898f907a3b6d5745f3a', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_2022.zip
+ok 2022 histdata/xagusd/DAT_ASCII_XAGUSD_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2023
+{'tk': 'e8294a641a5b1e4ccc8ad3b2dcc8b8e4', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_2023.zip
+ok 2023 histdata/xagusd/DAT_ASCII_XAGUSD_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2024
+{'tk': 'f3361acb81520be77dd276b83e574fb4', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_2024.zip
+ok 2024 histdata/xagusd/DAT_ASCII_XAGUSD_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2025
+{'tk': '447e70088bf65f8166f3b6998b559296', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_2025.zip
+ok 2025 histdata/xagusd/DAT_ASCII_XAGUSD_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/1
+{'tk': '1c93818e0712b589d9fe2d1a0216f7ef', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202601.zip
+ok 2026 1 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/2
+{'tk': '8f7690de68df3e099f6bf86d84fba07f', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202602.zip
+ok 2026 2 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/3
+{'tk': '23cc16801a0487b8292abfec27c7a2d4', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202603.zip
+ok 2026 3 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/4
+{'tk': 'c74a46536c3d678089b9d1d704c31c9d', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202604.zip
+ok 2026 4 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/5
+{'tk': 'fead3e398f90f0a95eab518e2c1e0d7e', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202605.zip
+ok 2026 5 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/6
+{'tk': 'c038a80e3fc10804de6973d707e3cfc7', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202606.zip
+ok 2026 6 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/7
+{'tk': '61d7b097c6c908ba5540d12f8134d565', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202607.zip
+ok 2026 7 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/8
+{'tk': 'd4b3cbecbcf122715492ea7cf5dd46e5', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202608.zip
+ok 2026 8 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/9
+{'tk': '634a3dcc56507f4ca39f99fd34c5eac4', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202609.zip
+ok 2026 9 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/xagusd/2026/10
+{'tk': '25ac1bc2740e330f0d52c780733b147b', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'XAGUSD'}
+Wrote to histdata/xagusd/DAT_ASCII_XAGUSD_M1_202610.zip
+ok 2026 10 histdata/xagusd/DAT_ASCII_XAGUSD_M1_202610.zip
+total 33480
+drwxr-xr-x 2 runner runner    4096 Oct 12 15:04 .
+drwxr-xr-x 3 runner runner    4096 Oct 12 15:04 ..
+-rw-r--r-- 1 runner runner 3002885 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2016.zip
+-rw-r--r-- 1 runner runner 2793502 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2017.zip
+-rw-r--r-- 1 runner runner 2718327 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2018.zip
+-rw-r--r-- 1 runner runner 2862939 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2019.zip
+-rw-r--r-- 1 runner runner 3319429 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2020.zip
+-rw-r--r-- 1 runner runner 3248260 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2021.zip
+-rw-r--r-- 1 runner runner 3225570 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2022.zip
+-rw-r--r-- 1 runner runner 2821882 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2023.zip
+-rw-r--r-- 1 runner runner 3416789 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2024.zip
+-rw-r--r-- 1 runner runner 3587872 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_2025.zip
+-rw-r--r-- 1 runner runner  360366 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202601.zip
+-rw-r--r-- 1 runner runner  342647 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202602.zip
+-rw-r--r-- 1 runner runner  375365 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202603.zip
+-rw-r--r-- 1 runner runner  336428 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202604.zip
+-rw-r--r-- 1 runner runner  340866 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202605.zip
+-rw-r--r-- 1 runner runner  352552 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202606.zip
+-rw-r--r-- 1 runner runner  354296 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202607.zip
+-rw-r--r-- 1 runner runner  333992 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202608.zip
+-rw-r--r-- 1 runner runner  325103 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202609.zip
+-rw-r--r-- 1 runner runner  103626 Oct 12 15:04 DAT_ASCII_XAGUSD_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 12 15:04 log.txt

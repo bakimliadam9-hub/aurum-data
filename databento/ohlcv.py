@@ -10,3 +10,4 @@ for s,tag in (('NQ.v.0','nq'),('GC.v.0','gc')):
             df.to_parquet(f'databento/out/{tag}_1m_{y}.parquet')
             print(tag,y,len(df))
         except Exception as e: print(tag,y,'ERR',str(e)[:300]); break
+# go

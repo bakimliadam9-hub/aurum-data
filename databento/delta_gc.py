@@ -1,6 +1,6 @@
 import os, databento as db, pandas as pd, numpy as np
 c=db.Historical(os.environ['DATABENTO_API_KEY']); G='GLBX.MDP3'
-W=pd.read_csv('databento/windows_gold.csv',parse_dates=['start','end'])
+W=pd.read_csv('databento/windows_gold.csv')
 tot=0
 for r in W.itertuples(): tot+=c.metadata.get_cost(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end))
 print(f'TOTAL COST ${tot:.2f} for {len(W)} windows')

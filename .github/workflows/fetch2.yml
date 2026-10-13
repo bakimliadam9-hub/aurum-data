@@ -13,7 +13,7 @@ jobs:
       max-parallel: 3
       fail-fast: false
       matrix:
-        pair: [xaueur, nsxusd, spxusd, xagusd, eurusd]
+        pair: [grxeur, etxeur, ukxgbp, jpxjpy, frxeur, wtiusd, udxusd]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -63,6 +63,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: download yahoo futures (5m 60d, 1h 730d)
+        if: false
         run: |
           pip install -q yfinance pandas
           mkdir -p yahoo

@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2021
+{'tk': '0dd0b6c54177aa5022aa12244c04f5e9', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_2021.zip
+ok 2021 histdata/udxusd/DAT_ASCII_UDXUSD_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2022
+{'tk': 'f753cac7652252683838bf9f78052dfe', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_2022.zip
+ok 2022 histdata/udxusd/DAT_ASCII_UDXUSD_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2023
+{'tk': 'bcd36570e2fb36591fa030342dbec628', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_2023.zip
+ok 2023 histdata/udxusd/DAT_ASCII_UDXUSD_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2024
+{'tk': '1abefe27cf5a26ce69ece66347ae11c0', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_2024.zip
+ok 2024 histdata/udxusd/DAT_ASCII_UDXUSD_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2025
+{'tk': 'bdb4d3df2d32dde3e80e45fa717c9d9a', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_2025.zip
+ok 2025 histdata/udxusd/DAT_ASCII_UDXUSD_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/1
+{'tk': '453f32bcf4883d36fe79305d10ccc343', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202601.zip
+ok 2026 1 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/2
+{'tk': '3a7fa53b463ec9a462dd45ad3c4a8605', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202602.zip
+ok 2026 2 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/3
+{'tk': 'f1c7ea88dabdc89766b79b30df509aed', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202603.zip
+ok 2026 3 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/4
+{'tk': 'c695ce389a3a44ffdff303144996c89a', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202604.zip
+ok 2026 4 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/5
+{'tk': '4c577b16c2d9c95244dc0d52e6849460', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202605.zip
+ok 2026 5 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/6
+{'tk': 'd74f2e3447faa463369aa02c19499f7c', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202606.zip
+ok 2026 6 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/7
+{'tk': '4230b53e77c79cdd8af101a72fb11788', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202607.zip
+ok 2026 7 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/8
+{'tk': '6f583ba830a62203d2c95972da335f0f', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202608.zip
+ok 2026 8 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/9
+{'tk': '8ca789f2e412673febeee49e546ed858', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202609.zip
+ok 2026 9 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/udxusd/2026/10
+{'tk': 'd0a0518d859abee6df4488242d053f08', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UDXUSD'}
+Wrote to histdata/udxusd/DAT_ASCII_UDXUSD_M1_202610.zip
+ok 2026 10 histdata/udxusd/DAT_ASCII_UDXUSD_M1_202610.zip
+total 30364
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:05 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:04 ..
+-rw-r--r-- 1 runner runner 2684917 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2016.zip
+-rw-r--r-- 1 runner runner 2467930 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2017.zip
+-rw-r--r-- 1 runner runner 2958138 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2018.zip
+-rw-r--r-- 1 runner runner 2579050 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2019.zip
+-rw-r--r-- 1 runner runner 3028125 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2020.zip
+-rw-r--r-- 1 runner runner 2887915 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2021.zip
+-rw-r--r-- 1 runner runner 3226036 Oct 13 03:04 DAT_ASCII_UDXUSD_M1_2022.zip
+-rw-r--r-- 1 runner runner 2751905 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_2023.zip
+-rw-r--r-- 1 runner runner 3029510 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_2024.zip
+-rw-r--r-- 1 runner runner 3091297 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_2025.zip
+-rw-r--r-- 1 runner runner  247794 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202601.zip
+-rw-r--r-- 1 runner runner  234943 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202602.zip
+-rw-r--r-- 1 runner runner  274572 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202603.zip
+-rw-r--r-- 1 runner runner  250975 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202604.zip
+-rw-r--r-- 1 runner runner  241560 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202605.zip
+-rw-r--r-- 1 runner runner  253747 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202606.zip
+-rw-r--r-- 1 runner runner  264131 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202607.zip
+-rw-r--r-- 1 runner runner  238108 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202608.zip
+-rw-r--r-- 1 runner runner  241903 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202609.zip
+-rw-r--r-- 1 runner runner   80313 Oct 13 03:05 DAT_ASCII_UDXUSD_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 13 03:05 log.txt

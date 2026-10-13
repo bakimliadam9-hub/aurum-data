@@ -1,7 +1,4 @@
-/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py:10: BentoWarning: The streaming request contained one or more days which have reduced quality: 2019-03-13 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
-  df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df(); break
-/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py:10: BentoWarning: No data found for the request you submitted.
-  df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df(); break
-/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py:10: BentoWarning: The streaming request contained one or more days which have reduced quality: 2025-09-24 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
-  df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df(); break
-(15619, 7)
+/home/runner/work/aurum-data/aurum-data/databento/pilot.py:18: BentoWarning: No data found for the request you submitted.
+  df=c.timeseries.get_range(dataset=G,symbols=['NQ.v.0'],stype_in='continuous',schema='trades',start=a,end=b).to_df(); break
+PILOT: 98 mornings, cost $20.99, last 2025-05-19T13:25:00Z
+(61460, 7)

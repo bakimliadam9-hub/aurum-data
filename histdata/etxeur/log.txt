@@ -1,0 +1,56 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2016
+{'tk': 'faf195a73822ea38ba145cd26e76ea6e', 'date': '2016', 'datemonth': '2016', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'ETXEUR'}
+Wrote to histdata/etxeur/DAT_ASCII_ETXEUR_M1_2016.zip
+ok 2016 histdata/etxeur/DAT_ASCII_ETXEUR_M1_2016.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2017
+{'tk': '42f9b447c85747e6a2ad1ec4384bb277', 'date': '2017', 'datemonth': '2017', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'ETXEUR'}
+Wrote to histdata/etxeur/DAT_ASCII_ETXEUR_M1_2017.zip
+ok 2017 histdata/etxeur/DAT_ASCII_ETXEUR_M1_2017.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2018
+{'tk': '9b30046e50e7ce32c3a9ea6b3d331e4a', 'date': '2018', 'datemonth': '2018', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'ETXEUR'}
+Wrote to histdata/etxeur/DAT_ASCII_ETXEUR_M1_2018.zip
+ok 2018 histdata/etxeur/DAT_ASCII_ETXEUR_M1_2018.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2019
+{'tk': '994543f866b06b80d3656975a1ccd19f', 'date': '2019', 'datemonth': '2019', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'ETXEUR'}
+Wrote to histdata/etxeur/DAT_ASCII_ETXEUR_M1_2019.zip
+ok 2019 histdata/etxeur/DAT_ASCII_ETXEUR_M1_2019.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2020
+fail 2020 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2021
+fail 2021 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2022
+fail 2022 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2023
+fail 2023 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2024
+fail 2024 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2025
+fail 2025 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/1
+fail 2026 1 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/2
+fail 2026 2 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/3
+fail 2026 3 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/4
+fail 2026 4 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/5
+fail 2026 5 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/6
+fail 2026 6 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/7
+fail 2026 7 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/8
+fail 2026 8 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/9
+fail 2026 9 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/etxeur/2026/10
+fail 2026 10 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+total 4020
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:02 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:02 ..
+-rw-r--r-- 1 runner runner 1370052 Oct 13 03:02 DAT_ASCII_ETXEUR_M1_2016.zip
+-rw-r--r-- 1 runner runner 1168482 Oct 13 03:02 DAT_ASCII_ETXEUR_M1_2017.zip
+-rw-r--r-- 1 runner runner 1348846 Oct 13 03:02 DAT_ASCII_ETXEUR_M1_2018.zip
+-rw-r--r-- 1 runner runner  204307 Oct 13 03:02 DAT_ASCII_ETXEUR_M1_2019.zip
+-rw-r--r-- 1 runner runner    5274 Oct 13 03:02 log.txt

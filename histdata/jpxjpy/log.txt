@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2021
+{'tk': 'b135d7adcbb6ee9e57275cfda7731f7b', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2021.zip
+ok 2021 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2022
+{'tk': '6fbc245121a0d19355db3bd5442ac6a4', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2022.zip
+ok 2022 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2023
+{'tk': '21c07f53b79bbf89a48fe3f27c13c7c7', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2023.zip
+ok 2023 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2024
+{'tk': 'e414d1bcd3929e84d0d87d0afb5c7c94', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2024.zip
+ok 2024 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2025
+{'tk': 'badafee56d8d499e66842ad0412232b3', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2025.zip
+ok 2025 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/1
+{'tk': 'be9016b6d8d0e227041c6a73cd7d04d8', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202601.zip
+ok 2026 1 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/2
+{'tk': '0a544b71001e659c482b6e14f6b4eb82', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202602.zip
+ok 2026 2 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/3
+{'tk': '43deacc68a2397559e3105560917da4a', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202603.zip
+ok 2026 3 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/4
+{'tk': 'b4cf2386f163d5b2cfc7b4f80e52726d', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202604.zip
+ok 2026 4 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/5
+{'tk': '18ef473b4c9dd508021592dce826eef7', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202605.zip
+ok 2026 5 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/6
+{'tk': '6b2ca241bcc9da5b0ef782f787662d87', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202606.zip
+ok 2026 6 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/7
+{'tk': 'dff0a8535707dce4e024ada0872351f5', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202607.zip
+ok 2026 7 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/8
+{'tk': 'ad414fdf73463d877def057abaea79c4', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202608.zip
+ok 2026 8 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/9
+{'tk': '5e86e40e9862314d2680d13250c3b4b9', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202609.zip
+ok 2026 9 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/jpxjpy/2026/10
+{'tk': 'cead7f39f9ffbe02c1e8181300b1be8c', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'JPXJPY'}
+Wrote to histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202610.zip
+ok 2026 10 histdata/jpxjpy/DAT_ASCII_JPXJPY_M1_202610.zip
+total 33684
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:04 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:03 ..
+-rw-r--r-- 1 runner runner 2238867 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2016.zip
+-rw-r--r-- 1 runner runner 1976595 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2017.zip
+-rw-r--r-- 1 runner runner 2366286 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2018.zip
+-rw-r--r-- 1 runner runner 2649056 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2019.zip
+-rw-r--r-- 1 runner runner 3577154 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2020.zip
+-rw-r--r-- 1 runner runner 3650970 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2021.zip
+-rw-r--r-- 1 runner runner 3704284 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2022.zip
+-rw-r--r-- 1 runner runner 3216956 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2023.zip
+-rw-r--r-- 1 runner runner 3873314 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2024.zip
+-rw-r--r-- 1 runner runner 3901347 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_2025.zip
+-rw-r--r-- 1 runner runner  330599 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202601.zip
+-rw-r--r-- 1 runner runner  323823 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202602.zip
+-rw-r--r-- 1 runner runner  380887 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202603.zip
+-rw-r--r-- 1 runner runner  342130 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202604.zip
+-rw-r--r-- 1 runner runner  343437 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202605.zip
+-rw-r--r-- 1 runner runner  375655 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202606.zip
+-rw-r--r-- 1 runner runner  387713 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202607.zip
+-rw-r--r-- 1 runner runner  348430 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202608.zip
+-rw-r--r-- 1 runner runner  341286 Oct 13 03:03 DAT_ASCII_JPXJPY_M1_202609.zip
+-rw-r--r-- 1 runner runner  109194 Oct 13 03:04 DAT_ASCII_JPXJPY_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 13 03:04 log.txt

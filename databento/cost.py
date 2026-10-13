@@ -17,3 +17,4 @@ try:
     jobs=c.batch.list_jobs(); out.append('JOBS: '+json.dumps([{k:j.get(k) for k in ('id','dataset','symbols','schema','start','end','state','cost_usd','actual_size','expiration')} for j in jobs],default=str)[:3000])
 except Exception as e: out.append('jobs ERROR '+str(e)[:200])
 open('databento/cost_report.txt','w').write('\n'.join(out)); print('\n'.join(out))
+# run 2026-10-13T05:40:52

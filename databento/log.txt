@@ -1,6 +1,58 @@
-GLBX-20261001-CJAGYDUUCC: 6 files
-GLBX-20261001-WD984PNGU3: 316 files
-sample files: ['condition.json', 'glbx-mdp3-20250101.trades.csv', 'glbx-mdp3-20250102.trades.csv', 'glbx-mdp3-20250103.trades.csv', 'manifest.json', 'metadata.json', 'condition.json', 'glbx-mdp3-20250101.trades.csv'] total MB 4041.350075
-(356538, 10) 2025-01-01 23:00:00+00:00 2026-01-01 23:59:00+00:00 <ArrowStringArray>
-['GCG5', 'GCJ5', 'GCM5', 'GCQ5', 'GCZ5', 'GCG6']
-Length: 6, dtype: str buy share 0.4871929930835631
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2017-11-13 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2018-10-21 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2019-01-15 (degraded), 2019-02-22 (degraded), 2019-03-13 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2020-02-27 (degraded), 2020-02-28 (degraded), 2020-05-05 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2021-12-05 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2022-01-02 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2024-09-18 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2025-09-17 (degraded), 2025-09-24 (degraded), 2025-11-28 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2026-01-31 (degraded), 2026-03-15 (degraded), 2026-03-16 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2017-11-13 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2018-10-21 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2019-01-15 (degraded), 2019-02-22 (degraded), 2019-03-13 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2020-02-27 (degraded), 2020-02-28 (degraded), 2020-05-05 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2021-12-05 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2022-01-02 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2024-09-18 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2025-09-17 (degraded), 2025-09-24 (degraded), 2025-11-28 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/ohlcv.py:8: BentoWarning: The streaming request contained one or more days which have reduced quality: 2026-01-31 (degraded), 2026-03-15 (degraded), 2026-03-16 (degraded)... See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=[s],stype_in='continuous',schema='ohlcv-1m',start=st,end=en).to_df()
+nq 2016 336245
+nq 2017 341471
+nq 2018 349178
+nq 2019 349846
+nq 2020 349672
+nq 2021 353393
+nq 2022 354112
+nq 2023 353358
+nq 2024 354954
+nq 2025 352509
+nq 2026 275394
+gc 2016 347990
+gc 2017 346699
+gc 2018 347107
+gc 2019 348036
+gc 2020 350083
+gc 2021 348357
+gc 2022 349732
+gc 2023 346674
+gc 2024 351320
+gc 2025 350874
+gc 2026 272069

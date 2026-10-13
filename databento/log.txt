@@ -1,6 +1,5 @@
-/home/runner/work/aurum-data/aurum-data/databento/delta.py:10: BentoWarning: The streaming request contained one or more days which have reduced quality: 2019-02-22 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
-  df=c.timeseries.get_range(dataset=G,symbols=['NQ.v.0'],stype_in='continuous',schema='trades',start=r.start.isoformat(),end=r.end.isoformat()).to_df()
-/home/runner/work/aurum-data/aurum-data/databento/delta.py:10: BentoWarning: The streaming request contained one or more days which have reduced quality: 2020-07-01 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
-  df=c.timeseries.get_range(dataset=G,symbols=['NQ.v.0'],stype_in='continuous',schema='trades',start=r.start.isoformat(),end=r.end.isoformat()).to_df()
-TOTAL COST $29.79 for 513 windows
-(31935, 7)
+Traceback (most recent call last):
+  File "/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py", line 5, in <module>
+    for r in W.itertuples(): tot+=c.metadata.get_cost(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=r.start.isoformat(),end=r.end.isoformat())
+                                                                                                                               ^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'isoformat'. Did you mean: 'format'?

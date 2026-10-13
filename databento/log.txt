@@ -1,14 +1,17 @@
+/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py:10: BentoWarning: The streaming request contained one or more days which have reduced quality: 2019-03-13 (degraded). See: https://databento.com/docs/api-reference-historical/metadata/metadata-get-dataset-condition
+  df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df()
+/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py:10: BentoWarning: No data found for the request you submitted.
+  df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df()
+TOTAL COST $2.42 for 756 windows
 Traceback (most recent call last):
-  File "/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py", line 5, in <module>
-    for r in W.itertuples(): tot+=c.metadata.get_cost(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end))
-                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/historical/api/metadata.py", line 479, in get_cost
-    response: Response = self._post(
-                         ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/common/http.py", line 113, in _post
+  File "/home/runner/work/aurum-data/aurum-data/databento/delta_gc.py", line 10, in <module>
+    df=c.timeseries.get_range(dataset=G,symbols=['GC.v.0'],stype_in='continuous',schema='trades',start=str(r.start),end=str(r.end)).to_df()
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/historical/api/timeseries.py", line 127, in get_range
+    return self._stream(
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/common/http.py", line 134, in _stream
     check_http_error(response)
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/common/http.py", line 249, in check_http_error
-    raise BentoClientError(
-databento.common.error.BentoClientError: 400 data_invalid_datetime_string
-Invalid datetime for `start`, was '2016-01-0506:44:59.999999998+00:00'.
-documentation: https://databento.com/docs/standards-and-conventions/common-fields-enums-types
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/databento/common/http.py", line 233, in check_http_error
+    raise BentoServerError(
+databento.common.error.BentoServerError: 504 The remote gateway timed out.

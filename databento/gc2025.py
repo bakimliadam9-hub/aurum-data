@@ -7,11 +7,17 @@ for jid in jobs:
         files=c.batch.download(job_id=jid,output_dir='/tmp/jobs'); info.append(f'{jid}: {len(files)} files')
     except Exception as e: info.append(f'{jid}: ERR {str(e)[:200]}')
 print('\n'.join(info))
-fs=sorted(glob.glob('/tmp/jobs/**/*.dbn.zst',recursive=True)); print(len(fs),'dbn files', sum(os.path.getsize(f) for f in fs)/1e6,'MB')
+allf=sorted(glob.glob('/tmp/jobs/**/*',recursive=True)); allf=[f for f in allf if os.path.isfile(f)]
+print('sample files:',[os.path.basename(f) for f in allf[:8]], 'total MB', sum(os.path.getsize(f) for f in allf)/1e6)
+fs=[f for f in allf if '.dbn' in f or '.csv' in f]
 parts=[]
 for f in fs:
-    store=db.DBNStore.from_file(f)
-    df=store.to_df(map_symbols=True)
+    if '.dbn' in f: df=db.DBNStore.from_file(f).to_df(map_symbols=True)
+    else:
+        df=pd.read_csv(f); 
+        tcol='ts_event' if 'ts_event' in df else df.columns[0]
+        df.index=pd.to_datetime(df[tcol],utc=True) if not str(df[tcol].dtype).startswith('int') else pd.to_datetime(df[tcol],unit='ns',utc=True)
+        if df['price'].abs().max()>1e7: df['price']=df['price']/1e9
     if df.empty or 'side' not in df: continue
     df=df[['symbol','price','size','side']].copy()
     df=df[~df.symbol.str.contains('-',na=False)]         # drop spreads

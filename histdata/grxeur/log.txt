@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2021
+{'tk': '6d0c1aea21c032e6f33e361aa1137f7a', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_2021.zip
+ok 2021 histdata/grxeur/DAT_ASCII_GRXEUR_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2022
+{'tk': 'e6782557a47e1d3b28e478c48b325016', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_2022.zip
+ok 2022 histdata/grxeur/DAT_ASCII_GRXEUR_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2023
+{'tk': 'b31708c474e25e1264315fa4e88c9222', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_2023.zip
+ok 2023 histdata/grxeur/DAT_ASCII_GRXEUR_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2024
+{'tk': 'c593183ec89e9ea1b458a9cebb204916', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_2024.zip
+ok 2024 histdata/grxeur/DAT_ASCII_GRXEUR_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2025
+{'tk': 'd8c2e01e41197ac93c2992c22e8dd40e', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_2025.zip
+ok 2025 histdata/grxeur/DAT_ASCII_GRXEUR_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/1
+{'tk': '8a12315e67e15237e19026c2dfc64830', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202601.zip
+ok 2026 1 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/2
+{'tk': '235e300ee5b967fce4bd86ab5e1f155f', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202602.zip
+ok 2026 2 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/3
+{'tk': 'c31e04cc490bb4617c75993307701f26', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202603.zip
+ok 2026 3 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/4
+{'tk': '53c46cf1585a0be39de5b1421e5d28e7', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202604.zip
+ok 2026 4 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/5
+{'tk': 'e169f8ab07f33d0e4e8208932c6cd751', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202605.zip
+ok 2026 5 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/6
+{'tk': 'ec6b7bd0e9e34038e7f40de7aaac3719', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202606.zip
+ok 2026 6 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/7
+{'tk': 'f416d785845c7da5a0b17208338efb32', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202607.zip
+ok 2026 7 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/8
+{'tk': 'dda47d8d9a30553ac9db596dc8f798d8', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202608.zip
+ok 2026 8 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/9
+{'tk': '8073096999f91a31ebaa7bff8a711783', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202609.zip
+ok 2026 9 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/grxeur/2026/10
+{'tk': 'fabc54b43bf099083f4515dbd4401e49', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'GRXEUR'}
+Wrote to histdata/grxeur/DAT_ASCII_GRXEUR_M1_202610.zip
+ok 2026 10 histdata/grxeur/DAT_ASCII_GRXEUR_M1_202610.zip
+total 30216
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:03 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:02 ..
+-rw-r--r-- 1 runner runner 2171718 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2016.zip
+-rw-r--r-- 1 runner runner 1973429 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2017.zip
+-rw-r--r-- 1 runner runner 2190373 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2018.zip
+-rw-r--r-- 1 runner runner 3236345 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2019.zip
+-rw-r--r-- 1 runner runner 3241516 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2020.zip
+-rw-r--r-- 1 runner runner 2162358 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2021.zip
+-rw-r--r-- 1 runner runner 2326024 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2022.zip
+-rw-r--r-- 1 runner runner 1871461 Oct 13 03:02 DAT_ASCII_GRXEUR_M1_2023.zip
+-rw-r--r-- 1 runner runner 4059164 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_2024.zip
+-rw-r--r-- 1 runner runner 4241837 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_2025.zip
+-rw-r--r-- 1 runner runner  344526 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202601.zip
+-rw-r--r-- 1 runner runner  333113 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202602.zip
+-rw-r--r-- 1 runner runner  394327 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202603.zip
+-rw-r--r-- 1 runner runner  361914 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202604.zip
+-rw-r--r-- 1 runner runner  359554 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202605.zip
+-rw-r--r-- 1 runner runner  400015 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202606.zip
+-rw-r--r-- 1 runner runner  411858 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202607.zip
+-rw-r--r-- 1 runner runner  345457 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202608.zip
+-rw-r--r-- 1 runner runner  347477 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202609.zip
+-rw-r--r-- 1 runner runner  111080 Oct 13 03:03 DAT_ASCII_GRXEUR_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 13 03:03 log.txt

@@ -1,0 +1,77 @@
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2017.zip
+ok 2017 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2017.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2018
+{'tk': '11bbae45eb9e10f57aa5262bd63b624b', 'date': '2018', 'datemonth': '2018', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2018.zip
+ok 2018 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2018.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2019
+{'tk': 'd319cf12df80c5519cbaa4ea6f11f80d', 'date': '2019', 'datemonth': '2019', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2019.zip
+ok 2019 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2019.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2020
+{'tk': '3674a739eb17dd62a9e7bb1d19c58b7d', 'date': '2020', 'datemonth': '2020', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2020.zip
+ok 2020 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2020.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2021
+{'tk': '44d03cbe118c2fda1dab587fe0170a9e', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2021.zip
+ok 2021 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2022
+{'tk': 'd792ee6583b32b7dcc52acbc8fff845d', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2022.zip
+ok 2022 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2023
+{'tk': 'a4cbf517910b5c4e61e1cd426c4ec75a', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2023.zip
+ok 2023 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2024
+fail 2024 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2025
+fail 2025 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/1
+fail 2026 1 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/2
+fail 2026 2 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/3
+fail 2026 3 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/4
+fail 2026 4 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/5
+fail 2026 5 AssertionError('There is no token. Please make sure your year/month/pair is correct.Example is year=2016, month=7, pair=eurgbp')
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/6
+{'tk': '868ec5f03ac07b354acd279dc8b6a4f9', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202606.zip
+ok 2026 6 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/7
+{'tk': '686b485d321e9087cd6c53e536fa055c', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202607.zip
+ok 2026 7 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/8
+{'tk': 'e0f65eb2cce0a2de985a6419f142f178', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202608.zip
+ok 2026 8 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/9
+{'tk': 'c41aadcd9e898d7d9a2931923066cc93', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202609.zip
+ok 2026 9 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/wtiusd/2026/10
+{'tk': 'fdf1faaeeb3bdb6407efedcf7fa3ba07', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'WTIUSD'}
+Wrote to histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202610.zip
+ok 2026 10 histdata/wtiusd/DAT_ASCII_WTIUSD_M1_202610.zip
+total 23176
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:04 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:03 ..
+-rw-r--r-- 1 runner runner 2582792 Oct 13 03:03 DAT_ASCII_WTIUSD_M1_2016.zip
+-rw-r--r-- 1 runner runner 2265292 Oct 13 03:03 DAT_ASCII_WTIUSD_M1_2017.zip
+-rw-r--r-- 1 runner runner 2607486 Oct 13 03:03 DAT_ASCII_WTIUSD_M1_2018.zip
+-rw-r--r-- 1 runner runner 2730613 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_2019.zip
+-rw-r--r-- 1 runner runner 3075484 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_2020.zip
+-rw-r--r-- 1 runner runner 3134351 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_2021.zip
+-rw-r--r-- 1 runner runner 3726727 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_2022.zip
+-rw-r--r-- 1 runner runner 2532266 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_2023.zip
+-rw-r--r-- 1 runner runner   29253 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_202606.zip
+-rw-r--r-- 1 runner runner  308306 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_202607.zip
+-rw-r--r-- 1 runner runner  290860 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_202608.zip
+-rw-r--r-- 1 runner runner  303136 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_202609.zip
+-rw-r--r-- 1 runner runner   97717 Oct 13 03:04 DAT_ASCII_WTIUSD_M1_202610.zip
+-rw-r--r-- 1 runner runner    5687 Oct 13 03:04 log.txt

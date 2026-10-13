@@ -1,0 +1,14 @@
+GC.v.0 ohlcv-1m 2016-2026: $13.72  211 MB
+GC.v.0 trades 2025: $37.07  1422 MB
+GC.v.0 trades 2020-2026: $211.01  8092 MB
+MGC.v.0 ohlcv-1m 2016-2026: $11.73  180 MB
+MGC.v.0 trades 2025: $48.29  1852 MB
+MGC.v.0 trades 2020-2026: $166.08  6369 MB
+NQ.v.0 ohlcv-1m 2016-2026: $13.76  211 MB
+NQ trades 9:00-12:30 ET: 10 days $3.03 -> per year ~$76
+NQ.v.0 trades full 10 days: $6.92  265 MB
+{'id': 'XNAS-20261001-L9HSRXXCXX'}
+{'id': 'XNAS-20261001-XYESC5WAYN'}
+{'id': 'XNAS-20261001-XXWLMPEM9P'}
+{'id': 'GLBX-20261001-CJAGYDUUCC'}
+{'id': 'GLBX-20261001-WD984PNGU3'}

@@ -1,1 +1,13 @@
-NO SECRET
+NQ.c.0 ohlcv-1m 2016-2026: $13.60  size 209 MB
+MNQ.c.0 ohlcv-1m 2016-2026: $9.49  size 146 MB
+GC.c.0 ohlcv-1m 2016-2026: $0.50  size 8 MB
+ES.c.0 ohlcv-1m 2016-2026: $13.72  size 210 MB
+NQ.c.0 trades 2025-01-01->2026-01-01: $113.61  size 4357 MB
+NQ.c.0 trades 2024-01-01->2026-10-10: $319.45  size 12250 MB
+NQ.c.0 trades 2022-01-01->2026-10-10: $566.96  size 21742 MB
+NQ.c.0 tbbo 2025: $189.35  size 7261 MB
+GC.c.0 trades 2025-01-01->2026-01-01: $0.08  size 3 MB
+GC.c.0 trades 2024-01-01->2026-10-10: $0.17  size 6 MB
+GC.c.0 trades 2022-01-01->2026-10-10: $0.27  size 10 MB
+GC.c.0 tbbo 2025: $0.13  size 5 MB
+JOBS: [{"id": "XNAS-20261001-L9HSRXXCXX", "dataset": null, "symbols": null, "schema": null, "start": null, "end": null, "state": "done", "cost_usd": null, "actual_size": null, "expiration": null}, {"id": "XNAS-20261001-XYESC5WAYN", "dataset": null, "symbols": null, "schema": null, "start": null, "end": null, "state": "done", "cost_usd": null, "actual_size": null, "expiration": null}, {"id": "XNAS-20261001-XXWLMPEM9P", "dataset": null, "symbols": null, "schema": null, "start": null, "end": null, "state": "done", "cost_usd": null, "actual_size": null, "expiration": null}, {"id": "GLBX-20261001-CJAGYDUUCC", "dataset": null, "symbols": null, "schema": null, "start": null, "end": null, "state": "done", "cost_usd": null, "actual_size": null, "expiration": null}, {"id": "GLBX-20261001-WD984PNGU3", "dataset": null, "symbols": null, "schema": null, "start": null, "end": null, "state": "done", "cost_usd": null, "actual_size": null, "expiration": null}]

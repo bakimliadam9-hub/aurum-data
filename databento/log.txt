@@ -1,0 +1,13 @@
+GLBX-20261001-CJAGYDUUCC: 6 files
+GLBX-20261001-WD984PNGU3: 316 files
+0 dbn files 0.0 MB
+Traceback (most recent call last):
+  File "/home/runner/work/aurum-data/aurum-data/databento/gc2025.py", line 23, in <module>
+    B=pd.concat(parts).reset_index()
+      ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/pandas/core/reshape/concat.py", line 407, in concat
+    objs, keys, ndims = _clean_keys_and_objs(objs, keys)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/pandas/core/reshape/concat.py", line 808, in _clean_keys_and_objs
+    raise ValueError("No objects to concatenate")
+ValueError: No objects to concatenate

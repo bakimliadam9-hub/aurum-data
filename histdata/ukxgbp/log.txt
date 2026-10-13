@@ -1,0 +1,84 @@
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2021
+{'tk': '483667cd25d8ff3d90cd0e3380ded973', 'date': '2021', 'datemonth': '2021', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2021.zip
+ok 2021 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2021.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2022
+{'tk': '205b05e0e72fccd03b37ab839c0e59c3', 'date': '2022', 'datemonth': '2022', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2022.zip
+ok 2022 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2022.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2023
+{'tk': '6a031c83fb995a097e088ccf4791a40e', 'date': '2023', 'datemonth': '2023', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2023.zip
+ok 2023 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2023.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2024
+{'tk': '5fba77f4f928677a6d5e31239f70d06c', 'date': '2024', 'datemonth': '2024', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2024.zip
+ok 2024 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2024.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2025
+{'tk': '5e8404e5d907afa4bd8d5a2e75c935a2', 'date': '2025', 'datemonth': '2025', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2025.zip
+ok 2025 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_2025.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/1
+{'tk': '8c6df17d995e97848b06e26dfb77f10d', 'date': '2026', 'datemonth': '202601', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202601.zip
+ok 2026 1 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202601.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/2
+{'tk': 'ea0a1b0225acdb6286a481a653cd9d93', 'date': '2026', 'datemonth': '202602', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202602.zip
+ok 2026 2 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202602.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/3
+{'tk': '33d20b7edf15c1532d6c7600685aacb3', 'date': '2026', 'datemonth': '202603', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202603.zip
+ok 2026 3 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202603.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/4
+{'tk': '9b8b05db18feeddef6cf6ae3cf2fa69a', 'date': '2026', 'datemonth': '202604', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202604.zip
+ok 2026 4 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202604.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/5
+{'tk': '67ba12468a1fbe5cb9bbd826ee8f9d70', 'date': '2026', 'datemonth': '202605', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202605.zip
+ok 2026 5 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202605.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/6
+{'tk': 'e998b6139866aa1347e61f22e5442f6a', 'date': '2026', 'datemonth': '202606', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202606.zip
+ok 2026 6 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202606.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/7
+{'tk': '1bb838d86f15d2c0a307daa9a3ade43d', 'date': '2026', 'datemonth': '202607', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202607.zip
+ok 2026 7 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202607.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/8
+{'tk': 'e21fa96beb2a1752eaffc28af66dd4b6', 'date': '2026', 'datemonth': '202608', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202608.zip
+ok 2026 8 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202608.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/9
+{'tk': 'e8b37f133c3fd53d52073236ac0e5d24', 'date': '2026', 'datemonth': '202609', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202609.zip
+ok 2026 9 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202609.zip
+https://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/ukxgbp/2026/10
+{'tk': '47fd4132ad886975a785b3ba65b71b66', 'date': '2026', 'datemonth': '202610', 'platform': 'ASCII', 'timeframe': 'M1', 'fxpair': 'UKXGBP'}
+Wrote to histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202610.zip
+ok 2026 10 histdata/ukxgbp/DAT_ASCII_UKXGBP_M1_202610.zip
+total 39460
+drwxr-xr-x 2 runner runner    4096 Oct 13 03:03 .
+drwxr-xr-x 8 runner runner    4096 Oct 13 03:02 ..
+-rw-r--r-- 1 runner runner 1677207 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2016.zip
+-rw-r--r-- 1 runner runner 1533295 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2017.zip
+-rw-r--r-- 1 runner runner 1777559 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2018.zip
+-rw-r--r-- 1 runner runner 3737171 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2019.zip
+-rw-r--r-- 1 runner runner 4919084 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2020.zip
+-rw-r--r-- 1 runner runner 4568288 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2021.zip
+-rw-r--r-- 1 runner runner 5023054 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2022.zip
+-rw-r--r-- 1 runner runner 4120177 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2023.zip
+-rw-r--r-- 1 runner runner 4702863 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2024.zip
+-rw-r--r-- 1 runner runner 4742287 Oct 13 03:02 DAT_ASCII_UKXGBP_M1_2025.zip
+-rw-r--r-- 1 runner runner  362770 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202601.zip
+-rw-r--r-- 1 runner runner  355541 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202602.zip
+-rw-r--r-- 1 runner runner  410547 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202603.zip
+-rw-r--r-- 1 runner runner  375929 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202604.zip
+-rw-r--r-- 1 runner runner  372956 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202605.zip
+-rw-r--r-- 1 runner runner  395178 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202606.zip
+-rw-r--r-- 1 runner runner  413113 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202607.zip
+-rw-r--r-- 1 runner runner  369477 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202608.zip
+-rw-r--r-- 1 runner runner  374020 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202609.zip
+-rw-r--r-- 1 runner runner  120937 Oct 13 03:03 DAT_ASCII_UKXGBP_M1_202610.zip
+-rw-r--r-- 1 runner runner    5322 Oct 13 03:03 log.txt
